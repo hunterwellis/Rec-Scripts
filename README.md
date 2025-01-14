@@ -1,7 +1,8 @@
 # Recording Scripts
 
-Bash scripts to record your desktop and overlay camera, using ffmpeg and v4l2.
+Some simple bash scripts to record your desktop (audio and video) and overlay a camera, using ffmpeg and v4l2.
 
+![example recording](example.gif "recording")
 *example recording*
 
 ## Usage
